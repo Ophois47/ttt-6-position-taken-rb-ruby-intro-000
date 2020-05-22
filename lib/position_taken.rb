@@ -1,8 +1,7 @@
 def position_taken?(board, index)
   input = board[1..9]
 
-  if board[] == " "
+  if board[1..9] == " "
     return false
   end
-
 end
