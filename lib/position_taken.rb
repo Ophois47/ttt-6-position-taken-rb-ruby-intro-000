@@ -1,4 +1,4 @@
 def position_taken?(board, index)
-  board = arr[" ", " ", " ", " ", " "," "," ", " ", " "]
+  input = board[" ", " ", " ", " ", " "," "," ", " ", " "]
 
 end
